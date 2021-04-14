@@ -1,0 +1,24 @@
+Tjoma: Someone asked me to make them a shitcoin on AVAX, fronted me some AVAX and we deployed this contract with no website.
+
+https://cchain.explorer.avax.network/address/0x8d4A8522f2FB040d4755757C05d99976C0D29fCE/contracts
+
+It hit number 18 for a while. This contract is alot like the SakuraTree coin except that it doesn't have any maximum TX amount.
+------
+
+
+Swordfish Finance: Someone deployed a Lobster Finance coin, so one of his friends wanted me to fork it as a joke. 
+The 'Lobster' contract was just PIG modified, neither Lobster nor Swordfish got much usage though so I don't 
+consider this one very good or important. Just something quick. 
+
+http://swordfishbsc.surge.sh/
+
+https://www.bscscan.com/address/0x8bc06bec22a9993db2ad85656df590052a7287bc#code
+
+-------
+
+Raffle - unused
+
+https://github.com/jackyewbetcha/LotteryGame/blob/main/CLV%20RAFFLE
+
+This was posted for a DAO while I was just beginning to learn Solidity by forking it some from some obscure youtube video and never used it.
+It has a bunch of exploits, and taught me indirectly how important chainlink was, because I learned very quickly RNG and solidity don't mix.
