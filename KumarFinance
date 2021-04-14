@@ -1,0 +1,16 @@
+This was a project I sold to someone way too cheaply. It hit nearly 70k marketcap, and just recently the dev ordered another token (Kumar 2, of all things) so
+I had to update some info and I recently minted him a new token.
+
+http://kumarfinanceecosystem.surge.sh/
+
+The first token is literally just a fork of a contract known as "PIG" but I didn't burn any of the total supply upon launch. 
+
+
+Kumar:
+https://bscscan.com/address/0xb615847f7aee7ad04ef844e7e413462758d15dc3#code
+
+
+The second token (Kumar2) he wanted something deflationary, so I gave him a contract I found that burns 20% of every tx forever.
+
+Kumar2:
+https://www.bscscan.com/token/0xb07ffe6855af8e5228b96948640b598febba1440
